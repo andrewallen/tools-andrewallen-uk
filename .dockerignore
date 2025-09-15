@@ -1,0 +1,12 @@
+# Docker build context excludes
+node_modules
+dist
+.git
+.gitignore
+.vscode
+*.log
+npm-debug.log*
+.DS_Store
+bun.lockb
+WARP.md
+
